@@ -20,36 +20,36 @@
   "FACEBOOK": "https://www.facebook.com/nazrul.4xx",
   "authorFB": "https://www.facebook.com/nazrul.4xx",
   "authorEmail": "xrushchoudhury@gmail.com",
-  "nickNameBot": "🪶 Cʜᴏᴄᴏʟᴀᴛᴇ ➝ 🌷🩶💋",
-  "prefix": "/",
-  "adminPrefix": "!",
+  "nickNameBot": "H",
+  "prefix": ".",
+  "adminPrefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "main_admin": "61564913640716",
   "main_admins": [
-    "61564913640716",
-    "",
+    "61592778947207",
+    "61592853883908",
     ""
   ],
   "premium": {
     "users": [
-      "61564913640716",
-      ""
+      "61592778947207",
+      "61592853883908"
     ],
     "groups": [],
     "expiry": {}
   },
   "nazrul": [
-    "61564913640716",
-    "",
+    "61592778947207",
+    "61592853883908",
     ""
   ],
   "vip": {
     "users": [
-      "61564913640716",
-      "",
+      "61592778947207",
+      "61592853883908",
       ""
     ],
     "groups": []
@@ -58,8 +58,8 @@
   "csb": "https://lfjtfq-8080.csb.app",
   "dipto": "https://noobs-api.top",
   "adminBot": [
-    "61564913640716",
-    "",
+    "61592778947207",
+    "61592853883908",
     "",
     ""
   ],
